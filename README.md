@@ -2,6 +2,8 @@
 
 This example shows how to collect BBB company contacts, accreditation details, complaint history, and customer reviews in Node.js using [BBB Business Details Scraper](https://apify.com/piotrv1001/bbb-business-details-scraper) on Apify. It calls an existing Actor rather than implementing a BBB scraper.
 
+![BBB business details output in Apify](./bbb_business_details_results.png)
+
 ## What this example does
 
 - Calls `piotrv1001/bbb-business-details-scraper`
