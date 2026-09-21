@@ -1,0 +1,14 @@
+{
+  "name": "how-to-scrape-bbb-business-details-in-nodejs",
+  "version": "1.0.0",
+  "description": "Scrape BBB business details, complaints, and reviews in Node.js using an Apify Actor",
+  "type": "module",
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "dependencies": {
+    "apify-client": "^2.12.0",
+    "dotenv": "^16.4.5"
+  },
+  "license": "MIT"
+}

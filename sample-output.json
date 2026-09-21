@@ -1,0 +1,65 @@
+[
+  {
+    "bbbId": "0000",
+    "businessId": "0000000",
+    "url": "https://www.bbb.org/us/tx/example/profile/security-systems/example-security-company-0000-0000000",
+    "name": "Example Security Company",
+    "category": "Security Systems",
+    "address": {
+      "line1": "100 Example Street",
+      "city": "Example City",
+      "state": "TX",
+      "zip": "75000",
+      "country": "US"
+    },
+    "phone": "(555) 010-0100",
+    "additionalPhones": ["(555) 010-0101"],
+    "email": null,
+    "website": "https://example.com/",
+    "contacts": [
+      {
+        "name": "Example Principal",
+        "title": "President",
+        "isPrincipal": true,
+        "isManagement": true
+      }
+    ],
+    "rating": "A+",
+    "isAccredited": true,
+    "accreditedSince": "1987-01-01",
+    "yearsInBusiness": 49,
+    "entityType": "Limited Liability Company (LLC)",
+    "complaintsTotal": 11,
+    "complaintsClosedLast12Months": 3,
+    "reviewsTotal": 10,
+    "averageReviewRating": 3,
+    "complaints": [
+      {
+        "id": "example-complaint-1",
+        "date": "2026-06-03",
+        "type": "Product Issues",
+        "status": "Answered",
+        "text": "Example complaint text...",
+        "responses": [
+          {
+            "date": "2026-06-05",
+            "by": "business",
+            "text": "Example business response..."
+          }
+        ]
+      }
+    ],
+    "reviews": [
+      {
+        "id": "example-review-1",
+        "date": "2026-01-30",
+        "rating": 1,
+        "reviewer": "Example Customer",
+        "text": "Example customer review text...",
+        "businessResponse": null
+      }
+    ],
+    "status": "ok",
+    "scrapedAt": "2026-09-21T07:34:29.780Z"
+  }
+]
